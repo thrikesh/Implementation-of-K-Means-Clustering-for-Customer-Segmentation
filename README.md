@@ -75,6 +75,10 @@ plt.title("Customer Segments")
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ## Output:
 data.head():
@@ -91,6 +95,14 @@ data.info():
 NULL VALUES:
 
 ![278949606-807815d1-9dd7-4139-a7d0-50d75fb3286c](https://github.com/Naveensrinivasan07/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119475891/151605f3-5026-4dcf-9ec5-c8452b49339c)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ELBOW GRAPH:
 
