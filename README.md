@@ -67,6 +67,10 @@ plt.legend()
 plt.title("Customer Segments")
 */
 ```
+<br>
+<br>
+<br>
+<br>
 
 ## Output:
 data.head():
